@@ -16,23 +16,6 @@ Backend Code  : [Backend Link](https://github.com/r12053/fileSwiftBackend)
 
 5.Delete Uploaded File : Tool has feature of delete .
 
-
-## Demo
-
-The app requires the user to select any file from the local storage and submit the uploaded file. Once the file upload is completed, the user is provided a download link and a shareable link. The shareable link will be valid for 15 days after file upload, after which the document is deleted from the Database using the TTL concept.
-
-![2023-10-08 (2)](https://github.com/ank002111/fileSwiftUploaderPlatfrom/assets/75662819/ed8132c1-9657-45ac-8c18-eea60d2fc23d)
-![2023-10-08 (3)](https://github.com/ank002111/fileSwiftUploaderPlatfrom/assets/75662819/acf8f073-eea9-423b-8c95-abf0ee44e846)
-![2023-10-08 (4)](https://github.com/ank002111/fileSwiftUploaderPlatfrom/assets/75662819/14fc6f60-ec92-4c1e-a04b-467cb711366e)
-![2023-10-08](https://github.com/ank002111/fileSwiftUploaderPlatfrom/assets/75662819/40a0cab1-9adf-4ea5-a68b-606582d8ece4)
-## Demo Video
-
-
-
-https://github.com/ank002111/fileSwiftUploaderPlatfrom/assets/75662819/e25d8752-1fe0-49a0-b6f6-3d188298b539
-
-
-
 ## Info
 1.The app is built using the MERN stack and uses the multer node package to handle file uploads. React hooks are used in the client-side and not class-based components.
 
